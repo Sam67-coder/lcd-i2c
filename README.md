@@ -1,5 +1,13 @@
 # lcd-i2c
 
-HD44780 I2C LCD driver for Raspberry Pi OS Bookworm.
+HD44780-compatible I2C LCD driver for Raspberry Pi OS Bookworm.
 
-Supports PCF8574-based LCD backpacks.
+## Features
+- Works on Raspberry Pi 5
+- Bookworm / Python 3.9+
+- PCF8574 I2C backpacks
+- Clean Linux (no MicroPython)
+
+## Installation
+```bash
+pip install lcd-i2c
