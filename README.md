@@ -1,4 +1,4 @@
-# lcd-i2c
+# rpi-lcd-i2c
 
 HD44780-compatible I2C LCD driver for Raspberry Pi OS Bookworm.
 
