@@ -1,14 +1,14 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="lcd-i2c",                     
-    version="1.0.0",                  
+    name="rpi-lcd-i2c",                     
+    version="1.0.1",                  
     description="HD44780 I2C LCD driver for Raspberry Pi (Bookworm)",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author="Samarth Joneja",
     author_email="Samarth.Joneja@gmail.com",
-    url="https://github.com/Sam67-coder/lcd-i2c",
+    url="https://github.com/Sam67-coder/rpi-lcd-i2c",
     license="MIT",
     packages=find_packages(),
     install_requires=["smbus2"],
