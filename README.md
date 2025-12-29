@@ -10,4 +10,4 @@ HD44780-compatible I2C LCD driver for Raspberry Pi OS Bookworm.
 
 ## Installation
 ```bash
-pip install lcd-i2c
+pip install rpi-lcd-i2c
